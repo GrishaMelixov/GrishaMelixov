@@ -59,12 +59,15 @@ concurrency, распределённые очереди, observability.
 <td width="50%">
 
 ### 💰 [WealthCheck](https://github.com/GrishaMelixov/WealthCheck)
-Fintech-платформа с RPG-геймификацией личных финансов
+Fintech-платформа: каждая трата прокачивает RPG-персонажа
 
 **Ключевые решения:**
-- Go backend + PostgreSQL + Redis
-- React frontend
-- Геймификация финансовых целей
+- Гибридная AI-классификация: MCC → Gemini → Ollama → fallback
+- OCR скриншотов банков через Tesseract (офлайн, без API)
+- Идемпотентный импорт CSV + суммы в `int64`
+- Redis-кеш аналитики, ~4x ускорение запросов
+- Real-time WebSocket + кастомный горутин-пул
+- Clean Architecture · ~87% покрытие юнит-тестами
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
