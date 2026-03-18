@@ -2,13 +2,13 @@
 
 # Привет, я Гриша 👋
 
-### Backend-разработчик · Go · Системное программирование
+### Junior Backend Developer · Go · Системное программирование
 
-Пишу производительные системы с упором на низкоуровневые детали —
-сетевые протоколы, concurrency, observability.
+Пишу производительные backend-системы на Go — сетевые протоколы,
+concurrency, распределённые очереди, observability.
+Ищу первую коммерческую позицию Go-разработчика.
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asxnft@gmail.com)
+[![Telegram](https://img.shields.io/badge/@asxsolo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asxsolo)
 
 </div>
 
@@ -21,7 +21,11 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -86,21 +90,7 @@ Fintech-платформа с RPG-геймификацией личных фин
 
 <div align="center">
 
-*Открыт к интересным задачам и предложениям*
+**Ищу первую коммерческую позицию Go-разработчика**
+Пиши в Telegram — [@asxsolo](https://t.me/asxsolo)
 
 </div>
-
-<!--
-**GrishaMelixov/GrishaMelixov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
